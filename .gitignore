@@ -3,5 +3,6 @@
 .RData
 .Ruserdata
 *.log
+*.pdf
 /*.tex
 /*_files/
